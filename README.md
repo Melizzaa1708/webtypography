@@ -21,3 +21,7 @@ Waar ik iets mee wil gaan doen:
 - Ik wil de hoge piep, tromgeroffel en het schanier geluid proberen om te zetten in vorm en beweging.
 - Bij de lichte scene zullen bepaalde effecten toegevoegd moeten worden voor de spanning.
 - Het stoppen en opnieuw afspelen van de muziek is ook iets waar mee geexpirimenteerd kan worden in vorm of beweging.
+
+Keuze lettertype gebasseerd op:
+- Leesbaarheid
+- Onderzoek naar spanning
