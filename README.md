@@ -1,6 +1,8 @@
 # webtypography
 Ondertiteling
 
+https://melizzaa1708.github.io/webtypography/
+
 Ik ben als eerst begonnen met de video te luisteren zonder beeld om te kijken wat me opviel.
 Dingen die me opvielen waren:
 - Een hoorn of toeter die harder wordt.
