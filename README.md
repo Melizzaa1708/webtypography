@@ -10,6 +10,7 @@ Handige feedback bij andere leerlingen:
 -Ready of fuck off in beeld bij Nassera, niet iets spannends eerder grote zware plek in beeld niet fijn.
 
 Feedback op mijn werk:
+-Lezen woord alarm.
 -Tekst dichter bij het scherm.
 -Ik zie de trillingen van het beeld wel maar ik weet niet wat het betekent.
 -Wat ik heel goed vond was het spelen met de fonts waardoor het echt als verschillende manieren van praten lijkt. 
