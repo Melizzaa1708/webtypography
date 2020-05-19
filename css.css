@@ -144,15 +144,15 @@ animation: slidedown 5s 0s ease infinite;
      -ms-transform: rotate(0deg); /* IE 9 */
   transform: rotate(0deg);
     filter:brightness(1);}
-  25%   { -ms-transform: rotate(1.5deg); /* IE 9 */
-  transform: rotate(1.5deg);
+  25%   { -ms-transform: rotate(1.2deg); /* IE 9 */
+  transform: rotate(1.2deg);
     filter:brightness(1.5);}
   50%  {margin-top:4%;
      -ms-transform: rotate(0deg); /* IE 9 */
   transform: rotate(0deg);
     filter:brightness(1);}
-    75%  {-ms-transform: rotate(1.5deg); /* IE 9 */
-  transform: rotate(1.5deg);}
+    75%  {-ms-transform: rotate(1.2deg); /* IE 9 */
+  transform: rotate(1.2deg);}
   100% {margin-top:0%;
     -ms-transform: rotate(0deg); /* IE 9 */
   transform: rotate(0deg);}
