@@ -74,13 +74,16 @@ Feel free to adjust the defaults to your needs.
 
 /* par sound */
 .sound0{
-      animation-duration: 6s;
-      animation: opac 4s 0s ease;
+      animation: slidedown 8s 0s ease;
 }
 
 .sound1{
       animation-name: shake;
       animation-duration: 1s;
+}
+
+.sound2{
+      animation: slidedown 5s 0s ease;
 }
 
 @keyframes shake {
@@ -117,33 +120,69 @@ animation: opac 2s 1s ease;
 animation: shake 0.5s 0.1s ease;
 }
 
+.sound5{
+animation: opac2 10s 0.1s ease;
+}
+
+.sound6{
+    animation: shake 0.5s 0.1s ease;
+}
 .sound7{
     animation: biggy 40s 0.1s ease;
 }
 
-.sound9{
+.sound8{
   animation: opac 4s 0.5s ease;
 }
 
-.sound10{
-    animation: biggy 40s 0.1s ease;
+.sound9{
+animation: slidedown 5s 0s ease infinite;
 }
 
 @keyframes slidedown {
-  0%   {margin-top:2%;}
-  50%  {margin-top:4%;}
-  100% {margin-top:2%;}
+  0%   {margin-top:0%;
+     -ms-transform: rotate(0deg); /* IE 9 */
+  transform: rotate(0deg);
+    filter:brightness(1);}
+  25%   { -ms-transform: rotate(2deg); /* IE 9 */
+  transform: rotate(2deg);
+    filter:brightness(2);}
+  50%  {margin-top:4%;
+     -ms-transform: rotate(0deg); /* IE 9 */
+  transform: rotate(0deg);
+    filter:brightness(1);}
+    75%  {-ms-transform: rotate(2deg); /* IE 9 */
+  transform: rotate(2deg);}
+  100% {margin-top:0%;
+    -ms-transform: rotate(0deg); /* IE 9 */
+  transform: rotate(0deg);}
+}
+
+
+
+@keyframes grayscale {
+    0% {filter: grayscale(0);}
+    100%{filter: grayscale(1);}
 }
 
     @keyframes biggy {
-  0%   {transform: scale(1);}
-  50% {transform: scale(1.5);}
-  100%   {transform: scale(1);}
+  0%   {transform: scale(1);
+        opacity: 0;}
+  50% {transform: scale(1.5);
+        opacity: 1;}
+  100%   {transform: scale(1);
+        opacity: 1;}
 }
 
     @keyframes opac {
   0%   {opacity: 1;}
   20%  {opacity: 0.1;}
+  100% {opacity: 1;}
+}
+
+    @keyframes opac2 {
+  0%   {opacity: 1;}
+  20%  {opacity: 0.5;}
   100% {opacity: 1;}
 }
 /* **********************************************
