@@ -7,8 +7,7 @@ https://melizzaa1708.github.io/webtypography/
 ## The big why?
 Ik heb lang zitten twijfelen of ik mee zou gaan in wat de andere leerlingen deden, namelijk veel kleur en objecten buiten de video laten animeren. Toch heb ik besloten om mijn hart te volgen en te gaan voor de mening van Marie, wie tenslotte de eindgebruiker is. Ik heb dit ontworpen voor Marie en heb haar feedback ten harte genomen, omdat zij tenslotte de enige binnen dit hele project is wie dingen anders waarneemt dan wij. Daar waar de docent kleur en gave animaties als te gek ervaarde en wat minder om de typografie gaf, gaf Marie juist om de typografie en voelde weinig voor de kleuren en animaties. Ze gaf aan eindelijk eens te kunnen ervaren en voelen hoe de acteur iets uitsprak en dat vond ze te gek. Ook gaf de docent aan dat we tot in het gekke moesten experimenteren. Voor mij bestond het expirimenteren uit het proberen van het gevoel van de geluiden en de manier van spreken van de acteur te kunnen weergeven voor Marie. Juist het spelen met kleur en objecten vond ik persoonlijk te standaard en ik wilde verder gaan dan dat. Ik wilde juist niet wanneer er een alarm was een rood alarm licht laten zien of letterlijk een alarm plaatje tonen. Ik wilde de vraag en voorkeur van Marie (wie geluid ervaart in trillingen) gebruiken om de snelheid waarin het geluid afspeelt om te zetten in trillingen. Daar waar een alarm een ritme heeft als een soort woe-woe-woe, deze dan om te zetten in een brr-brr-brr. Dit deed ik door het scherm, op een bepaalde snelheid heen en weer te laten gaan, waardoor ditzelfde ritme ontstaat.
 
-# Stap 1
-### De eerste stap
+# De eerst genomen stappen
 
 ## Gesprek Marie
 Uit de vragen van Marie bleek dat Marie geluid waarneemt door middel van **trillingen**. Wanneer een deur dichtvalt **voelt** zij de trilling, waardoor zij als het ware geluid waarneemt.
@@ -21,30 +20,6 @@ Vervolgens ben ik de video zonder geluid gaan kijken. *Over deze bevindingen lee
 - Ik wil de hoge piep, alarm, tromgeroffel en het schanier geluid proberen om te zetten in vorm en beweging.
 - Bij de lichte scene zullen bepaalde effecten toegevoegd moeten worden om de spanning meer op te hogen, het is nu nog te saai.
 - Het stoppen en opnieuw afspelen van de muziek is ook iets waar mee geexpirimenteerd kan worden in vorm of beweging.
-
-
-## Keuze lettertype gebasseerd op:
-- Leesbaarheid
-- Verschil in verschillende sprekers en het weergeven van geluid in tekst.
-- Onderzoek naar spanning
-
-## Keuze lettertype animatie gebasseerd op:
-- Het feit dat Marie geluid in de vorm van trillingen waarneemt.
-- Tekst die op de juiste timing op een bepaalde manier weergeven wordt, waardoor het lijkt alsof Marie echt hoort wat de persoon zegt.
-
-## Keuze animeren video gebasseerd op:
-- Het feit dat Marie geluiden in de vorm van trillingen waarneemt.
-- Het levendig maken van de video;
-  - Het doen laten lijken dat je zelf in de auto zit in de eerste scene, waardoor je meer meegenomen wordt in de video.
-  - Het weergeven van de verschillende alarmgeluiden door middel van trillingen in het scherm.
-  - Het spannender maken van de saaie witte kamer scene 1;
-  * Zwarte fade in en zoom in worden vaak gebruikt om iets spannender te maken. Wanneer je steeds dichter bij het hoofd komt ervaar je dat iemand te dicht in je safezone komt en daardoor voel je een bepaalde spanning in je lichaam. Ook ervaart het lichaam zwart met de nacht en geeft dit een bepaalde spanning.
-  - Het spannender maken van de saaie witte kamer scene 2;
-  * Deze scene is minder spannend, maar draait voornamelijk om de muziek, deze is wat heftig en gaat sneller. Het scherm gaat zo goed als mogelijk mee met de muziek en hierbij draait het meer om een soort angstig/gehaast gevoel. Het scherm beweegt snel om dit gevoel na te bootsen. Ook het lichter maken van de scene bootst lichtflitsen na, die vaak als snelheid en spanning waargenomen worden.
-  
-  ## Keuze beschrijven geluiden in woorden:
-  - Keuze gebasseerd op voorkeur Marie.
-
 
 # Tussentijdse 1e feedback van Marie:
 
@@ -89,3 +64,26 @@ Vervolgens ben ik de video zonder geluid gaan kijken. *Over deze bevindingen lee
   - De tekst is grijs, omdat er minder nadruk op licht dan op de tekst. Hij is schuin en serif, omdat dit het meest na verschillende font testen doet denken aan een geluid. Geluid is vaak ook vloeiend in een richting, daarom denk ik dat italic zo goed aansluit.
 - Ik heb een onderscheid gemaakt in de laatste twee scenes, zoals Vasilis dit aangaf. Er was inderdaad een verschil in muziek en gevoel.
 - Ik heb meer animatie toegevoegd om de geluiden weer te geven, omdat Vasilis nog meer de sfeer weergegeven wilt zien.
+
+# Onderbouwde keuzes in het ontwerp
+## Keuze lettertype gebasseerd op:
+- Leesbaarheid
+- Verschil in verschillende sprekers en het weergeven van geluid in tekst.
+- Onderzoek naar spanning
+
+## Keuze lettertype animatie gebasseerd op:
+- Het feit dat Marie geluid in de vorm van trillingen waarneemt.
+- Tekst die op de juiste timing op een bepaalde manier weergeven wordt, waardoor het lijkt alsof Marie echt hoort wat de persoon zegt.
+
+## Keuze animeren video gebasseerd op:
+- Het feit dat Marie geluiden in de vorm van trillingen waarneemt.
+- Het levendig maken van de video;
+  - Het doen laten lijken dat je zelf in de auto zit in de eerste scene, waardoor je meer meegenomen wordt in de video.
+  - Het weergeven van de verschillende alarmgeluiden door middel van trillingen in het scherm.
+  - Het spannender maken van de saaie witte kamer scene 1;
+  * Zwarte fade in en zoom in worden vaak gebruikt om iets spannender te maken. Wanneer je steeds dichter bij het hoofd komt ervaar je dat iemand te dicht in je safezone komt en daardoor voel je een bepaalde spanning in je lichaam. Ook ervaart het lichaam zwart met de nacht en geeft dit een bepaalde spanning.
+  - Het spannender maken van de saaie witte kamer scene 2;
+  * Deze scene is minder spannend, maar draait voornamelijk om de muziek, deze is wat heftig en gaat sneller. Het scherm gaat zo goed als mogelijk mee met de muziek en hierbij draait het meer om een soort angstig/gehaast gevoel. Het scherm beweegt snel om dit gevoel na te bootsen. Ook het lichter maken van de scene bootst lichtflitsen na, die vaak als snelheid en spanning waargenomen worden.
+  
+  ## Keuze beschrijven geluiden in woorden:
+  - Keuze gebasseerd op voorkeur Marie.
