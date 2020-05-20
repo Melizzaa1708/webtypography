@@ -8,7 +8,7 @@
 - Het woord 'muziek' bij muziek dan weet je wat het is. 
 - Ik vind het wel goed hoe je speelt met de typografie. 
 - Het gaat uiteindelijk om de gebruiker.
-- Superfijn dat ik eindelijk het idee krijg dat woorden vorm krijgen
+- Superfijn dat ik eindelijk zie hoe woorden vorm krijgen en je echt ziet hoe de persoon iets uitspreekt en op welke snelheid.
 
 
 ## Feedback Vasilis:
