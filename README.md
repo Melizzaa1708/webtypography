@@ -1,4 +1,5 @@
 # Stap 2
-Ondertiteling
+### Verder werken
 
-Tekst per span geanimeerd dmv keyframes. De sounds van body aan iframe gekoppeld en daardoor gespeeld met het scherm en bewegingen.
+- Tekst per span geanimeerd dmv keyframes. 
+- De sounds van body aan iframe gekoppeld en gespeeld met het scherm en bewegingen.
