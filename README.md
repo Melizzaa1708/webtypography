@@ -47,4 +47,23 @@ Vervolgens ben ik de video zonder geluid gaan kijken.
 - De sounds van body aan iframe gekoppeld en gespeeld met het scherm en bewegingen.
 - Ik heb als eerst het juist lettertype uitgekozen en gekeken wat de mogelijkheden zijn qua formaat, kleur en het spelen met de videoplayer. De videoplayer laat ik bewegen door middel van transform. Ook heb ik geprobeert in JavaScript de achtergrond in het wit te laten veranderen, zodra hij in de kamer zit. Dit lukte me helaas niet. Morgen weer een dag.
 
+# Stap 3
+### Feedback
+
+## Ik ga hier de feedback verwerken van Marie:
+
+### Handige feedback bij andere leerlingen:
+- De teksten zitten te ver uit elkaar bij kim en dat kost veel energie net een tennis wedstrijd. Dichterbij elkaar is beter.
+- Het geluid duidelijker maken als in schrijven ofzo. Zeg iets drie keer, laat het dan ook drie keer zien. Niet lang in beeld laten staan dan lijkt het 1x.
+- Kleuren begrijpt ze maar ze weet niet wat het is dat je hoort.
+- Ready of fuck off in beeld bij Nassera, niet iets spannends eerder grote zware plek in beeld niet fijn.
+
+### Feedback op mijn werk:
+- Lezen woord alarm.
+- Tekst dichter bij het scherm.
+- Ik zie de trillingen van het beeld wel maar ik weet niet wat het betekent.
+- Wat ik heel goed vond was het spelen met de fonts waardoor het echt als verschillende manieren van praten lijkt. 
+- Meerdere fonts in een zin geeft haar het idee dat elk woord iets betekend.
+- Je ziet goed wie wat zegt.
+
 
