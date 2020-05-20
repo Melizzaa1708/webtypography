@@ -65,7 +65,7 @@ Vervolgens ben ik de video zonder geluid gaan kijken. *Over deze bevindingen lee
 - Ik heb een onderscheid gemaakt in de laatste twee scenes, zoals Vasilis dit aangaf. Er was inderdaad een verschil in muziek en gevoel.
 - Ik heb meer animatie toegevoegd om de geluiden weer te geven, omdat Vasilis nog meer de sfeer weergegeven wilt zien.
 
-# Onderbouwde keuzes in het ontwerp
+# !! Onderbouwde keuzes in het ontwerp !!
 ## Keuze lettertype gebasseerd op:
 - Leesbaarheid
 - Verschil in verschillende sprekers en het weergeven van geluid in tekst.
