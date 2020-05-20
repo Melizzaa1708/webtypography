@@ -1,18 +1,22 @@
-# Stap 3
+# Stap 4
 Feedback
 
-Ik ga hier de feedback verwerken van Marie:
+##Ik ga hier de feedback verwerken van Marie:
+-Je ziet goed hoe de woorden een bepaalde nadruk hebben en je ziet echt hoe ze praten.
+-Echt mooi wat je hebt, wat ik nog wel mis is dat het beeld wiebelt, maar ik niet weet waarom. 
+-Wanneer je het geluid erbij schrijft dan snap ik het beter. 
+-Het woord 'muziek' bij muziek dan weet je wat het is. 
+-Ik vind het wel goed hoe je speelt met de typografie. 
+-Het gaat uiteindelijk om de gebruiker.
+-Superfijn dat ik eindelijk het idee krijg dat woorden vorm krijgen
 
-Handige feedback bij andere leerlingen:
--De teksten zitten te ver uit elkaar bij kim en dat kost veel energie net een tennis wedstrijd. Dichterbij elkaar is beter.
--Het geluid duidelijker maken als in schrijven ofzo. Zeg iets drie keer, laat het dan ook drie keer zien. Niet lang in beeld laten staan dan lijkt het 1x.
--Kleuren begrijpt ze maar ze weet niet wat het is dat je hoort.
--Ready of fuck off in beeld bij Nassera, niet iets spannends eerder grote zware plek in beeld niet fijn.
 
-Feedback op mijn werk:
--Lezen woord alarm.
--Tekst dichter bij het scherm.
--Ik zie de trillingen van het beeld wel maar ik weet niet wat het betekent.
--Wat ik heel goed vond was het spelen met de fonts waardoor het echt als verschillende manieren van praten lijkt. 
--Meerdere fonts in een zin geeft haar het idee dat elk woord iets betekend.
--Je ziet goed wie wat zegt.
+##Feedback Vasilis:
+-Bij de laatste twee scenes zijn er twee verschillende sferen en daarom moeten er twee verschillende vormgevingen zijn.
+-Tekst is niet het belangrijkste, dus waarmee laat jij het geluid overkomen.
+-Ontwerp keuzes kunnen onderbouwen, dus dit geluid doe ik zo en deze tekst doe ik zo omdat..
+
+##Inlever dingen:
+-Link op dlo
+-Video van screenrecording op dlo
+-Onderbouwen dat ik juist geen kleur wil gebruiken omdat... Ik wil niet gek gaan qua kleuren en gekke animaties, omdat ik het juist om de film wil laten draaien. De film en de tekst tot leven laten komen.
