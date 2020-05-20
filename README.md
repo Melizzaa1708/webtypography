@@ -87,3 +87,40 @@ Vervolgens ben ik de video zonder geluid gaan kijken. *Over deze bevindingen lee
   
   ## Keuze beschrijven geluiden in woorden:
   - Keuze gebasseerd op voorkeur Marie.
+  
+  
+  # Exclusive Design Principles
+ ### 1. Provide a unique experience
+Optimise you interface to work only for the person you’re designing for, and for the device they will be using. Make sure that it works perfectly well for this single case.
+
+- ! Dit design is gemaakt voor de gene waar ik het voor maak, namelijk Marie. Hierboven uitgebreider beschreven.
+
+### 2. Ignore situation
+You design for one person. Make sure you know the exact situations and contexts they will use your product or service in.
+
+- ! Het product is voor Marie. Marie kan niet horen en ervaart geluiden in trillingen.
+
+### 3. Be inconsistent/innovative
+Only use familiar conventions when you can not come up with a different idea. Make sure the user is surprised at all times.
+
+- ! Ik heb op mijn eigen orginele manier bedacht om het geluid om te zetten in trillingen. Dit is iets wat ik nog niet eerder heb gezien bij een ondertiteling.
+
+### 4. Take control
+You are in control. As an expert you know how to use the possibilities, features and attributes of the device and the preferences of the person you design for. Use this knowledge to design the best possible experience.
+
+- ! Marie maakt geen gebruik van een ander soort computer en maakt gebruik van Chrome en Safari. Het ontwerp is hier geschikt voor.
+
+### 5. Offer the best possible solution
+Optimise for your specific use case. Work with your client and their device to create the single best solution for the problem at hand.
+
+- ! Ik heb tijdens de eerste feedback ronde verschillende manieren gebruikt om te testen. Zo heb ik gespeelt met verschillende fonts, formaten en bewegingen. Ik vroeg haar hoe ze dit ervaarde.
+
+### 6. Prioritise identity
+Identity is important. People feel connected to things they can identify with. Make sure the design is on brand. Make sure the user’s identity is in the design. And make sure your signature is visible.
+
+- ! Deze is wat lastiger toe te passen gezien we geen merk maken voor Marie, toch heb ik wel rekening gehouden met een soort identiteit van Marie, namelijk met dat ze niet hoort en heb ik daar mijn ontwerp op aangepast.
+
+### 7. Add nonsense
+Things don’t have to be serious at all time. Make sure to add some lightness to your design.
+
+- ! Het schommelen van de video is deels overnagedacht en deels nonsense, omdat het deels een beetje gek is en je het niet verwacht tijdens het kijken van de video. Toch heeft het als functie om beter in de sfeer te komen.
