@@ -80,7 +80,7 @@ function pTimes(num,startT,endT,curT) {
 
 function sTimes(num,soundStarts,curT) {
     var soundClass = 'sound' + num;
-    var b = document.querySelector('iframe');
+    var b = document.querySelector('body');
     if( curT > soundStarts && !b.classList.contains(soundClass)) {
         b.classList.add(soundClass);
     }

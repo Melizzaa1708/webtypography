@@ -29,11 +29,24 @@ iframe{
     display: block;
     width:65%;
     top:75%;
-    left: 15%;
+    left: 20%;
     font-size:16pt;
     position: absolute;
 
 }
+
+#geluiden p{
+    color:grey;
+    width:65%;
+    top:70%;
+    left: 15%;
+    font-size:16pt;
+    position: absolute;
+    opacity: 0;
+    font-family:'Brenner';
+    font-style: italic;
+}
+
 
 
 /* **********************************************
@@ -73,14 +86,117 @@ Feel free to adjust the defaults to your needs.
 }
 
 /* par sound */
+.sound0 .cc0 {
+    animation: fadeOut 4s forwards;
+}
+
+.sound1 .cc1 {
+    animation: fadeOut 1.5s forwards;
+}
+
+.sound2 .cc2 {
+    animation: fadeOut 1.5s forwards;
+}
+
+.sound3 .cc3 {
+    animation: fadeOut 1.5s forwards;
+}
+
+.sound4 .cc4 {
+    animation: fadeOut 1.5s forwards;
+}
+
+.sound5 .cc5 {
+    animation: fadeOut 1.5s forwards;
+}
+
+.sound6 .cc6 {
+    animation: fadeOut 1.5s forwards;
+}
+
+.sound7 .cc7 {
+    animation: fadeOut 1.5s forwards;
+}
+
+.sound8 .cc8 {
+    animation: fadeOut 1.5s forwards;
+}
+
+.sound9 .cc9 {
+    animation: fadeOut2 40s forwards;
+}
+
+.sound10 .cc10 {
+    animation: fadeOut2 50s forwards;
+}
+
+
+@keyframes fadeOut2 {
+    0% {
+        opacity: 0;
+    }
+    5%{
+        opacity: 1;
+    }
+    95%{
+        opacity: 1;
+    }
+    100%{
+        opacity: 0;
+    }
+}
+
+@keyframes fadeOut {
+    0% {
+        opacity: 0;
+    }
+    20% {
+        opacity: 1;
+    }
+    80%{
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+    }
+}
 .sound0{
-      animation-duration: 6s;
-      animation: opac 4s 0s ease;
+      animation: slidedown 8s 0s ease;
 }
 
 .sound1{
       animation-name: shake;
       animation-duration: 1s;
+}
+
+.sound2{
+      animation: slidedown 5s 0s ease;
+}
+
+.sound3{
+animation: opac 2s 1s ease;
+}
+.sound4{
+animation: shake 0.5s 0.1s ease;
+}
+
+.sound5{
+animation: opac2 10s 0.1s ease;
+}
+
+.sound6{
+    animation: shake 0.5s 0.1s ease;
+}
+.sound7{
+    animation: biggy 40s 0.1s ease;
+}
+
+.sound8{
+  animation: opac 4s 0.5s ease;
+}
+
+.sound9{
+animation: slidedown2 2s 0s ease infinite;
 }
 
 @keyframes shake {
@@ -110,40 +226,68 @@ Feel free to adjust the defaults to your needs.
   transform: rotate(0deg);}
 }
 
-.sound3{
-animation: opac 2s 1s ease;
-}
-.sound4{
-animation: shake 0.5s 0.1s ease;
-}
-
-.sound7{
-    animation: biggy 40s 0.1s ease;
-}
-
-.sound9{
-  animation: opac 4s 0.5s ease;
-}
-
-.sound10{
-    animation: biggy 40s 0.1s ease;
+@keyframes slidedown2 {
+  0%   {margin-top:0%;
+     -ms-transform: rotate(0deg); /* IE 9 */
+  transform: rotate(0deg);
+    filter:brightness(1);}
+  25%   { -ms-transform: rotate(0.8deg); /* IE 9 */
+  transform: rotate(0.8deg);
+    filter:brightness(1.25);}
+  50%  {margin-top:2%;
+     -ms-transform: rotate(0deg); /* IE 9 */
+  transform: rotate(0deg);
+    filter:brightness(1);}
+    75%  {-ms-transform: rotate(0.2deg); /* IE 9 */
+  transform: rotate(0.2deg);}
+  100% {margin-top:0%;
+    -ms-transform: rotate(0deg); /* IE 9 */
+  transform: rotate(0deg);}
 }
 
 @keyframes slidedown {
-  0%   {margin-top:2%;}
-  50%  {margin-top:4%;}
-  100% {margin-top:2%;}
+  0%   {margin-top:0%;
+     -ms-transform: rotate(0deg); /* IE 9 */
+  transform: rotate(0deg);
+    filter:brightness(1);}
+  25%   { -ms-transform: rotate(1.1deg); /* IE 9 */
+  transform: rotate(1.1deg);
+    filter:brightness(1.5);}
+  50%  {margin-top:2%;
+     -ms-transform: rotate(0deg); /* IE 9 */
+  transform: rotate(0deg);
+    filter:brightness(1);}
+    75%  {-ms-transform: rotate(1.1deg); /* IE 9 */
+  transform: rotate(1.1deg);}
+  100% {margin-top:0%;
+    -ms-transform: rotate(0deg); /* IE 9 */
+  transform: rotate(0deg);}
+}
+
+
+@keyframes grayscale {
+    0% {filter: grayscale(0);}
+    100%{filter: grayscale(1);}
 }
 
     @keyframes biggy {
-  0%   {transform: scale(1);}
-  50% {transform: scale(1.5);}
-  100%   {transform: scale(1);}
+  0%   {transform: scale(1);
+        opacity: 0.5;}
+  50% {transform: scale(1.5);
+        opacity: 1;}
+  100%   {transform: scale(1);
+        opacity: 1;}
 }
 
     @keyframes opac {
   0%   {opacity: 1;}
   20%  {opacity: 0.1;}
+  100% {opacity: 1;}
+}
+
+    @keyframes opac2 {
+  0%   {opacity: 1;}
+  20%  {opacity: 0.5;}
   100% {opacity: 1;}
 }
 /* **********************************************
